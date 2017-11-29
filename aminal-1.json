@@ -1,0 +1,25 @@
+var animal= [{
+        "name": "Meowsy",
+        "species": "Cat",
+        "foods":{
+            "like": ["tuna","milk"],
+            "dislike":["hum", "zuchinni"]
+        }
+    },
+    {
+      "name": "Barkey",
+      "species": "Dog",
+      "foods":{
+          "like":["bones","meat"],
+          "dislike":["Human flesh"]
+      }
+    },
+    {
+      "name": "Miki Mocky",
+      "species": "Cat",
+      "foods":{
+          "like":["Mouse", "Fish","Banana"],
+          "dislike": ["Maku","Leaf"]
+      }
+    }
+];
